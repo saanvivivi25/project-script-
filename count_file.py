@@ -2,8 +2,7 @@ import os
 
 print("Current Folder:", os.getcwd())
 
-
-
+#open file
 file = open(r"C:\Users\HP\Desktop\python-automation-internship\week 1\file.txt", "r")
 
 # Read the entire content of the file
